@@ -82,6 +82,16 @@ export const Data = {
           "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
         ],
       },
+      
+      {
+        title: "FULL-STACK TOMATO",
+        period: "Oct. 2019 - Oct. 2021",
+        company: "Altiuz",
+        description: [
+          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
+          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+        ],
+      },
     ],
     academic: [
       {
