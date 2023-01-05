@@ -1,16 +1,16 @@
 export const Data = {
   profile: {
     name: "Lex Luther",
-    ocupation: "FullStack Software Developer",
-    location: "Santiago, Chile",
+    ocupation: "Senior Sales Engineer",
+    location: "London, United Kingdom",
     email: "lagos.matias25@gmail.com",
     telephone: "+56 971999705",
     image: "images/90208122_10222269974249078_3631065450546200576_n.jpg",
   },
   aboutMe: {
-    label: "Perfil",
+    label: "Profile",
     description:
-      "Analista Programador, capacitado para desarrollar aplicaciones informáticas en diversas tecnologías y múltiples lenguajes de programación, aplicando metodologías ágiles de desarrollo, incluyendo identificación de necesidades y diseños de sistemas basados en modelos de desarrollo.",
+      "Over 8 years of experience in sales engineering, with a focus on technical evangelism, consultative value selling, and product demonstrations. Skilled at working with innovative and disruptive technologies, and excels in a fast-paced environment. Presentation skills and experience in sales teams growing revenue - eg $500k to $8 Million in 2 years",
   },
   skills: {
     technicalLabel: "Tecnologías",
