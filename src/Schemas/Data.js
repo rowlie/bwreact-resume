@@ -5,7 +5,7 @@ export const Data = {
     location: "London, United Kingdom",
     email: "lagos.matias25@gmail.com",
     telephone: "+56 971999705",
-    image: "images/rd.PNG",
+    image: "images//90208122_10222269974249078_3631065450546200576_n.jpg",
   },
   aboutMe: {
     label: "Profile",
