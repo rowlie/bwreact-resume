@@ -42,9 +42,9 @@ export const Data = {
     label: "SOCIAL",
     social: [
       {
-        label: "Maaato",
+        label: "Roland Drewell",
         name: "linkedin",
-        url: "https://www.linkedin.com/in/matias-alfonso-lagos-gajardo",
+        url: "https://www.linkedin.com/in/rolanddrewell/",
         className: "bxl-linkedin-square",
       },
       {
@@ -64,33 +64,33 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "Senior Sales Engineer",
+        title: "Senior Sales Engineer EMEA",
         period: "Feb. 2021 - Present",
         company: "Productboard",
         description: [
-          "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
-          "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
-          "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
+          "First Senior EMEA SE for the leading product management tool. Delivered a £300k ARR deal in 3 months",
+          "Liaison between Product, Marketing, and Sales, sharing customer feedback and helping craft the product roadmap",
+          "Designed and delivered high-impact product demonstrations and presentations to 100+ prospects, part of sales team growing company ARR from $31.7M to $50M ARR in 12 months in 2022."
           
         ],
       },
       {
-        title: "Sales Engineer",
+        title: "Sales Engineer EMEA",
         period: "Oct. 2019 - Oct. 2021",
         company: "Sendbird",
         description: [
-          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
-          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+          "First EMEA hire for PaaS communications API company, delivering business value with voice, video and chat APIs and SDKs",
+          "Presidents Club Award 2020 for Sales Engineering Excellence. Grew the UK Sales team and office from 1 to 16 people in 3 years",
         ],
       },
       
       {
-        title: "FULL-STACK TOMATO",
-        period: "Oct. 2019 - Oct. 2021",
-        company: "Altiuz",
+        title: "Senior Pre Sales Engineer EMEA ",
+        period: "05/2014 - 10/2018",
+        company: "Tokbox",
         description: [
-          "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
-          "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
+          "First Pre Sales Consultant Hire for the cloud-based live video platform that lets enterprises embed face-to-face video directly into their web and mobile applications.",
+          "Key member of the team that took company revenue from 500k USD 8 Million USD in 2 years",
         ],
       },
     ],
