@@ -71,7 +71,7 @@ export const Data = {
           "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
           "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
           "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
-          "url: "https://www.productboard.com"
+          
         ],
       },
       {
