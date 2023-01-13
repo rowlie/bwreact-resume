@@ -1,10 +1,10 @@
 export const Data = {
   profile: {
-    name: "Lex Luther",
+    name: "Roland Drewell",
     ocupation: "Senior Sales Engineer",
-    location: "London, United Kingdom",
-    email: "lagos.matias25@gmail.com",
-    telephone: "+56 971999705",
+    location: "Bristol, United Kingdom",
+    email: "roland.drewell@gmail.com",
+    telephone: "+44 7725628586",
     image: "90208122_10222269974249078_3631065450546200576_n.jpg",
   },
   aboutMe: {
@@ -64,19 +64,20 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "FULL-STACK DEVELOPER",
-        period: "Oct. 2021 - Actualidad",
-        company: "Banco Ripley",
+        title: "Senior Sales Engineer",
+        period: "Feb. 2021 - Present",
+        company: "Productboard",
         description: [
           "Desarrollo y mejora continua de microservicios REST en Java y Node.js(JS/TS).",
           "Desarrollo y mejora continua de PWA en las tecnologías Angular, Ionic y Cordova.",
           "Canalización CI/CD con Bitbucket, Jenkins y AWS como infraestructura."
+          "url: "https://www.productboard.com"
         ],
       },
       {
-        title: "FULL-STACK DEVELOPER",
+        title: "Sales Engineer",
         period: "Oct. 2019 - Oct. 2021",
-        company: "Altiuz",
+        company: "Sendbird",
         description: [
           "Desarrollo de Web Services REST en Java y Nodejs(JS/TS) acompañado de diferentes motores de BD como Mysql, Oracle, MariaDB, MongoDB e IBM API Connect y 3scale como API Gateway.",
           "Desarrollo de Frontend y Mobile con tecnologías como Angular, React, React Native, Ionic y Cordova.",
