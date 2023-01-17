@@ -7,7 +7,7 @@ import { Proyects } from "../Components/Proyects";
 import { Works } from "../Components/Works";
 import { SocialMedia } from "../Components/SocialMedia";
 import { AboutMe } from "../Components/AboutMe";
-import { Menu } from "../Components/Menu";
+//import { Menu } from "../Components/Menu";
 import { SEO } from "../Components/SEO";
 
 import { Data as dataSchema } from "../Schemas/Data";
