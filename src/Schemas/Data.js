@@ -76,7 +76,7 @@ export const Data = {
       },
       {
         title: "Sales Engineer EMEA",
-        period: "Oct. 2019 - Oct. 2021",
+        period: "04/2019 - 02/2022",
         company: "Sendbird",
         description: [
           "First EMEA hire for PaaS communications API company, delivering business value with voice, video and chat APIs and SDKs",
@@ -96,9 +96,9 @@ export const Data = {
     ],
     academic: [
       {
-        career: "Técnico de Nivel Superior Analista Programador",
-        date: "2019",
-        institution: "Universidad Tecnológica de Chile INACAP",
+        career: "MBA Essentials ",
+        date: "07/2018 - 08/2018",
+        institution: "London School of Economics",
       },
     ],
     proyects: [
