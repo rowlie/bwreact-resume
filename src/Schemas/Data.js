@@ -68,7 +68,7 @@ export const Data = {
         period: "Feb. 2021 - Present",
         company: "Productboard",
         description: [
-          "First Senior EMEA SE for the leading product management tool. Delivered a £300k ARR deal in 3 months",
+          "First Senior EMEA SE for the leading product management tool at Series C. Delivered a £300k ARR deal in 3 months",
           "Liaison between Product, Marketing, and Sales, sharing customer feedback and helping craft the product roadmap",
           "Designed and delivered high-impact product demonstrations and presentations to 100+ prospects, part of sales team growing company ARR from $31.7M to $50M ARR in 12 months in 2022."
           
@@ -79,7 +79,7 @@ export const Data = {
         period: "04/2019 - 02/2022",
         company: "Sendbird",
         description: [
-          "First EMEA hire for PaaS communications API company, delivering business value with voice, video and chat APIs and SDKs",
+          "First EMEA hire for PaaS communications API company at Series B, delivering business value with voice, video and chat APIs and SDKs",
           "Presidents Club Award 2020 for Sales Engineering Excellence. Grew the UK Sales team and office from 1 to 16 people in 3 years",
         ],
       },
@@ -87,10 +87,10 @@ export const Data = {
       {
         title: "Senior Pre Sales Engineer EMEA ",
         period: "05/2014 - 10/2018",
-        company: "Tokbox",
+        company: "Tokbox a Telefónica company",
         description: [
           "First Pre Sales Consultant Hire for the cloud-based live video platform that lets enterprises embed face-to-face video directly into their web and mobile applications.",
-          "Key member of the team that took company revenue from 500k USD 8 Million USD in 2 years",
+          "Key member of the team that took company revenue from 500k USD 8 Million USD in 2 years. TokBox was acquired by Vonage for $35M on Aug 1, 2018",
         ],
       },
     ],
@@ -105,6 +105,11 @@ export const Data = {
         career: "BA (hons) in French and Italian ",
         date: "09/1998 - 07/2001",
         institution: "University College London",
+      },
+      {
+        career: "Msc in Creative Multimedia ",
+        date: "09/2001 - 06/2002",
+        institution: "Leeds Beckett University",
       },
     ],
     proyects: [
