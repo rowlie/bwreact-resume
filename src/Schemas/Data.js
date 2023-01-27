@@ -100,6 +100,12 @@ export const Data = {
         date: "07/2018 - 08/2018",
         institution: "London School of Economics",
       },
+     
+      {
+        career: "BA (hons) in French and Italian ",
+        date: "09/1998 - 07/2001",
+        institution: "University College London",
+      },
     ],
     proyects: [
       {
