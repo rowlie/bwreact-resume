@@ -6,6 +6,7 @@ export const Data = {
     email: "roland.drewell@gmail.com",
     telephone: "+44 7725628586",
     image: "90208122_10222269974249078_3631065450546200576_n.jpg",
+    url: "https://www.linkedin.com/in/rolanddrewell/",
   },
   aboutMe: {
     label: "Profile",
