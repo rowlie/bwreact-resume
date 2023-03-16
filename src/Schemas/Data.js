@@ -27,7 +27,7 @@ export const Data = {
       "Git",
     ],
     softSkills: [
-      "Capacidad de análisis",
+      "Value Based Selling",
       "Resolución de Problemas",
       "Pensamiento Crítico",
       "Trabajo en equipo",
