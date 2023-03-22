@@ -58,10 +58,10 @@ export const Data = {
         className: "bxs-calendar",
       },
       {
-        label: "Maaato",
-        name: "github",
+        label: "Intro Video",
+        name: "youtube",
         url: "https://github.com/Maaato",
-        className: "bxl-github",
+        className: "bxl-youtube",
       },
       {
         label: "Download CV",
