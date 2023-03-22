@@ -115,11 +115,12 @@ export const Data = {
     ],
     proyects: [
       {
-        name: "Onboarding Digital",
-        company: "Banco de Chile",
-        period: "Nov. 2019 - Ene. 2020",
+        name: "Delivery Hero",
+        company: "SendBird",
+        period: "4/2019 - 02/2022",
         description: [
-          "Control, desarrollo, securitización y despliegue de APIs en plataforma IBM API Connect.",
+          "Sales Engineer for German multinational online food-delivery service wanting to implement in-app chat.",
+          "Mananged the Enterprise deal process from discovery, value-based demo, proof of concept and hand off to customer success",
         ],
       },
       {
