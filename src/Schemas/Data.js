@@ -26,18 +26,20 @@ export const Data = {
       "PaaS",
       "Multimedia",
       "Git",
-      "French B2/C1",
+      
     ],
     softSkills: [
+      "Sales Engineering",
       "Value Based Selling",
       "MEDDICC",
       "Startups",
       "Collaboration",
       "Growth Mindset",
       "Learning",
-      "Creatity",
+      "Creativity",
       "Storytelling",
-      "Productiviy",
+      "Productivity",
+      "French B2/C1",
     ],
   },
   socialMedia: {
@@ -50,7 +52,7 @@ export const Data = {
         className: "bxl-linkedin-square",
       },
       {
-        label: "Roland Drewell",
+        label: "Book a 30min Zoom",
         name: "Calendly",
         url: "https://calendly.com/rolanddrewell",
         className: "bxs-calendar",
