@@ -143,16 +143,16 @@ export const Data = {
         company: "SalesForce Integration",
         period: "2/2021 - 02/2022",
         description: [
-          "Built a Salesforce integration allowing customers to view the status of features in progress from Productboard",
-          "Created a blog post and the inegration is used by all SEs to demo the functionality.",
+          "Built and documented a Salesforce integration using Visual Force allowing customers to view the status of features in progress from Productboard",
+          "Created a blog post and the integration was used by all SEs to demo the functionality, resulting in 30K of added ARR in Q2",
         ],
       },
       {
-        name: "Agendamiento Remoto",
-        company: "Gobierno de Chile",
-        period: "Mar. 2020 - May. 2020",
+        name: "InMobi",
+        company: "E-learning Platform",
+        period: "01/2012 - 05/2014",
         description: [
-          "Desarrollo frontend y mobile con las tecnologias de Angular 6 e Ionic 4 para el agendamiento de horas en centros a lo largo de todo Chile.",
+          "Delivered an E-Learning Platform for the InMobi Product to help client onboarding at scale",
         ],
       },
       {
