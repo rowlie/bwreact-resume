@@ -18,12 +18,12 @@ export const Data = {
     softLabel: "Skills",
     technicalSkills: [
       "HTML",
-      "React",
       "CSS",
       "APIs",
       "Video",
       "SaaS",
       "PaaS",
+      "AWS",
       "Multimedia",
       "Git",
       
@@ -69,13 +69,19 @@ export const Data = {
         url: "https://www.bbc.co.uk",
         className: "bxs-file-doc",
       },
+      {
+        label: "Productboard Blog",
+        name: "Blog",
+        url: "https://support.productboard.com/hc/en-us/articles/9663818053779-How-to-embed-your-Productboard-roadmap-and-portal-into-Salesforce",
+        className: "bx-link-external",
+      },
     ],
   },
   experience: {
     works: [
       {
         title: "Senior Sales Engineer EMEA",
-        period: "Feb. 2021 - Present",
+        period: "02/2021 - 02/2022",
         company: "Productboard",
         description: [
           "First Senior EMEA SE for the leading product management tool at Series C. Delivered a £300k ARR deal in 3 months",
@@ -99,7 +105,7 @@ export const Data = {
         period: "05/2014 - 10/2018",
         company: "Tokbox a Telefónica company",
         description: [
-          "First Pre Sales Consultant Hire for the cloud-based live video platform that lets enterprises embed face-to-face video directly into their web and mobile applications.",
+          "First Pre-Sales Consultant Hire for the cloud-based live video platform that lets enterprises embed face-to-face video directly into their web and mobile applications.",
           "Key member of the team that took company revenue from 500k USD 8 Million USD in 2 years. TokBox was acquired by Vonage for $35M on Aug 1, 2018",
         ],
       },
@@ -133,12 +139,12 @@ export const Data = {
         ],
       },
       {
-        name: "Captación Digital",
-        company: "Banco Ripley",
-        period: "Ene. 2020 - Feb. 2020",
+        name: "ProductBoard",
+        company: "SalesForce Integration",
+        period: "2/2021 - 02/2022",
         description: [
-          "Control, desarrollo y securitización de APIs en plataforma IBM API Connect.",
-          "Desarrollo frontend en Angular para el consumo de Web Services SOAP/REST apuntando a ambientes DEV/PRE-PROD/PROD como simulación.",
+          "Built a Salesforce integration allowing customers to view the status of features in progress from Productboard",
+          "Created a blog post and the inegration is used by all SEs to demo the functionality.",
         ],
       },
       {
