@@ -52,7 +52,7 @@ export const Data = {
         label: "Roland Drewell",
         name: "Calendly",
         url: "https://calendly.com/rolanddrewell",
-        className: "bx bxs-calendar-plus'",
+        className: "bxl-linkedin-square'",
       },
       {
         label: "Maaato",
