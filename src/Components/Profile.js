@@ -18,7 +18,7 @@ export const Profile = ({
             <strong>{name}</strong>
           </h1>
           <h3 className="home__profession">{ocupation}</h3>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="256" height="144" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
         </div>
 
