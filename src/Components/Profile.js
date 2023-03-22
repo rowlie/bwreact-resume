@@ -18,6 +18,8 @@ export const Profile = ({
             <strong>{name}</strong>
           </h1>
           <h3 className="home__profession">{ocupation}</h3>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
         </div>
 
         <div className="home__address bd-grid">
@@ -30,8 +32,7 @@ export const Profile = ({
           <span className="home__information">
             <i className="bx bx-phone home__icon" /> {telephone}
           </span>
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+
         </div>
       </div>
       <Options />
