@@ -29,7 +29,7 @@ export const Data = {
     ],
     softSkills: [
       "Value Based Selling",
-      "Resolución de Problemas",
+      "MEDDICC",
       "Pensamiento Crítico",
       "Trabajo en equipo",
       "Comunicación",
@@ -47,6 +47,12 @@ export const Data = {
         name: "linkedin",
         url: "https://www.linkedin.com/in/rolanddrewell/",
         className: "bxl-linkedin-square",
+      },
+      {
+        label: "Roland Drewell",
+        name: "Calendly",
+        url: "https://calendly.com/rolanddrewell",
+        className: "bxs-calendar-plus'",
       },
       {
         label: "Maaato",
