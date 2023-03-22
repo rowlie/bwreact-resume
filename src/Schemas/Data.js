@@ -43,7 +43,7 @@ export const Data = {
     ],
   },
   socialMedia: {
-    label: "SOCIAL",
+    label: "LINKS",
     social: [
       {
         label: "Roland Drewell",
