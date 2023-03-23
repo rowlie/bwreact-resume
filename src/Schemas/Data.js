@@ -135,7 +135,7 @@ export const Data = {
         period: "4/2019 - 02/2022",
         description: [
           "Sales Engineer for German multinational online food-delivery service wanting to implement in-app chat.",
-          "Mananged the Enterprise deal process from discovery, value-based demo, proof of concept, signature and hand-off to customer success.",
+          "Mananged the 650K USD Enterprise deal process from discovery, value-based demo, proof of concept, signature and hand-off to customer success.",
         ],
       },
       {
@@ -156,11 +156,11 @@ export const Data = {
         ],
       },
       {
-        name: "Altiuz Report Dynamic",
-        company: "Altiuz",
-        period: "Jun. 2020 - Jul. 2020",
+        name: "Tokbox",
+        company: "Coutts and Natwest",
+        period: "12/2014",
         description: [
-          "Desarrollo de servicio Java para la generación unitaria de documentos, sin la necesidad de tener almacenada la información del mismo en una fuente de datos.",
+          "Sales Engineer for the successful pilot scheme of private and secure video conferences which allowed customers to dial in from across the world which was then rolled out to 72,000 customers.",
         ],
       },
       {
