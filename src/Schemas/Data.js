@@ -66,7 +66,7 @@ export const Data = {
       {
         label: "Download CV",
         name: "Resume",
-        url: "https://www.bbc.co.uk",
+        url: "https://rolandfeb2023.s3.amazonaws.com/Roland+Drewell+-+2023.pdf",
         className: "bxs-file-doc",
       },
       {
