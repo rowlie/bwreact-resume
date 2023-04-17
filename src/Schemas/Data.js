@@ -164,13 +164,12 @@ export const Data = {
         ],
       },
       {
-        name: "Desarrollos Tigo",
-        company: "Computec S.A.S",
-        period: "Ago. 2020 - Dic 2020",
+        name: "Sales Team Training",
+        company: "ProductBoard",
+        period: "01/2022",
         description: [
-          "Desarrollo Java/Spring Boot de Web Service API REST para consulta y descarga de documentos almacenados en repositorios IBM CMOD.",
-          "Desarrollo Java CRON para transferencia de documentos XML hacia servidor SFTP.",
-          "Desarrollo Java CRON para carga de documentos PDFs hacia Azure Blob Storage.",
+          "Led training and mentor sessions for the Sales Team on how to run effective demos that sell ",
+          
         ],
       },
     ],
