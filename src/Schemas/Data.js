@@ -58,12 +58,6 @@ export const Data = {
         className: "bxs-calendar",
       },
       {
-        label: "Intro Video",
-        name: "youtube",
-        url: "https://github.com/Maaato",
-        className: "bxl-youtube",
-      },
-      {
         label: "Download CV",
         name: "Resume",
         url: "https://rolandfeb2023.s3.amazonaws.com/Roland+Drewell+-+2023.pdf",
