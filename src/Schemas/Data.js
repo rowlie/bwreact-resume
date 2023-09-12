@@ -81,7 +81,7 @@ export const Data = {
     works: [
       {
         title: "Senior Sales Engineer EMEA",
-        period: "02/2021 - 02/2022",
+        period: "02/2022 - 02/2023",
         company: "Productboard",
         description: [
           "First Senior EMEA SE for the leading product management tool at Series C. Delivered a £300k ARR deal in 3 months",
