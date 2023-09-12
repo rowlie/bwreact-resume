@@ -18,7 +18,7 @@ export const Profile = ({
             <strong>{name}</strong>
           </h1>
           <h3 className="home__profession">{ocupation}</h3>
-<div align="center"><iframe width="426" height="240" src="https://player.vimeo.com/video/195280379">
+<div align="center"><iframe width="300" height="169" src="https://player.vimeo.com/video/195280379">
 </iframe></div>
         </div>
 
