@@ -18,8 +18,8 @@ export const Profile = ({
             <strong>{name}</strong>
           </h1>
           <h3 className="home__profession">{ocupation}</h3>
-<iframe width="256" height="144" src="https://player.vimeo.com/video/195280379">
-</iframe>
+<div align="center"><iframe width="256" height="144" src="https://player.vimeo.com/video/195280379">
+</iframe></div>
         </div>
 
         <div className="home__address bd-grid">
