@@ -11,7 +11,7 @@ export const Data = {
   aboutMe: {
     label: "Profile",
     description:
-      "Over 8 years of experience in sales engineering, with a focus on technical evangelism, consultative value selling, and product demonstrations. Skilled at working with innovative and disruptive technologies, and excels in a fast-paced environment. Presentation skills and experience in sales teams growing revenue - eg $500k to $8 Million in 2 years",
+      "Over 9 years of experience in sales engineering, with a focus on technical evangelism, consultative value selling, and product demonstrations. Skilled at working with innovative and disruptive technologies, and excels in a fast-paced environment. Presentation skills and experience in sales teams growing revenue - eg $500k to $8 Million in 2 years",
   },
   skills: {
     technicalLabel: "Technologies",
